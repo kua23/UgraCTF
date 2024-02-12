@@ -19,9 +19,9 @@ On the paper, there was a cipher.`
 ## Solution
 -First, try to find the symbols on the given .png image. It shows a 'sun' like symbol.
 
--Using [https://images.google.com/] (Google Images), figure out that the symbol is from the game 'Papers, Please' and is the symbol of the Order of the Ezic Star. Hence, the 'Pap...' in the Challenge question too
+-Using [https://images.google.com/], figure out that the symbol is from the game 'Papers, Please' and is the symbol of the Order of the Ezic Star. Hence, the 'Pap...' in the Challenge question too
 
--[https://papersplease.fandom.com/wiki/EZIC] (Papers, Please)
+-[https://papersplease.fandom.com/wiki/EZIC] is the official fandom wiki page for the EZIC order from the game
 
 -To find the cipher, google the Ezic Decoder, which gives another picture that must be placed over the original picture containing text to decode.
 
