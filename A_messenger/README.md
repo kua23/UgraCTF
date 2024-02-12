@@ -19,5 +19,13 @@ On the paper, there was a cipher.`
 -Using [https://images.google.com/](Google Images), figure out that the symbol is from the game 'Papers, Please' and is the symbol of the Order of the Ezic Star. Hence, the 'Pap...' in the Challenge question too
 -[https://papersplease.fandom.com/wiki/EZIC](Papers, Please)
 -To find the cipher, google the Ezic Decoder, which gives another picture that must be placed over the original picture containing text to decode.
--To solve it, the picture used to decode must first be aligned with the rectangle dots on the top and then, with the bottom.
+-To solve it, the picture used to decode must first be aligned with the rectangle dots on the top and then, with the dots slightly below them.
+
+![image](https://github.com/kua23/UgraCTF/assets/61975172/755a2596-7d1a-4af2-b40a-82ebc08fc772)
+![image](https://github.com/kua23/UgraCTF/assets/61975172/d1279c7d-4bb2-4c71-866f-d199016d3427)
+
+### Flag
+`ugra_snowier_pastures_2ssij3zl`
+
+
 
