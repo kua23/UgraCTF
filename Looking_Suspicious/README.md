@@ -46,7 +46,7 @@ For the name of the country last visited, the answer is India as there are Rupee
 ![image](https://github.com/kua23/UgraCTF/assets/61975172/e873356a-0428-4d7e-9ad5-89866a117cf3)
 
 And lastly, for the Credit Card Number it is `5321304698557524`
-How we can find this out is, we know the last 8 numbers, that is `98557524`. In order to find out the first 6 numbers, we can search for the card which in this case is a Rocketbank Mastercard as every first 6 letters of the card are usually the same. This can be done using Ynadex. For the 7th number, we can use the Luna Algorithm to find it out, which then gives us 4.
+How we can find this out is, we know the last 8 numbers, that is `98557524`. In order to find out the first 6 numbers, we can search for the card which in this case is a Rocketbank Mastercard as every first 6 letters of the card are usually the same. This can be done using Yandex. For the 7th number, we can use the Luhn Algorithm to find it out, which then gives us 4.
 Thus, we get the answer and then the flag.
 
 ### Flag
